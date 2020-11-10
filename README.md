@@ -7,3 +7,5 @@
 ![C/C++ CI](https://github.com/99002657/CPP_LINUX/workflows/C/C++%20CI/badge.svg)
 
 ![Valgrind](https://github.com/99002657/CPP_LINUX/workflows/Valgrind/badge.svg)
+
+![cppcheck-action](https://github.com/99002657/MiniProject_Cpp/workflows/cppcheck-action/badge.svg)
