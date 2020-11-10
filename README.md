@@ -5,3 +5,5 @@
 ![UNIT TESTING](https://github.com/99002657/CPP_LINUX/workflows/UNIT%20TESTING/badge.svg) 
 
 ![C/C++ CI](https://github.com/99002657/CPP_LINUX/workflows/C/C++%20CI/badge.svg)
+
+![Valgrind](https://github.com/99002657/CPP_LINUX/workflows/Valgrind/badge.svg)
